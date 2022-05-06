@@ -205,7 +205,7 @@ data_user = {
     'nicky': Data(1234, 527819, 231910, 'Nicky Lauda', 0, 60000000, 'contohrek'),
     'edward': Data(4321, 527761, 990607, 'Edward Joe', 0, 90000000, 'cekrekening')
 }
-
+#p
 
 while True:
     try:
